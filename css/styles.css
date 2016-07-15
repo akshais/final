@@ -1,0 +1,10 @@
+body 
+{
+  margin-bottom: 120px !important;
+}
+.page-header {
+  margin-top: 0;
+}
+.panel-body {
+  pading-top:0;
+}
