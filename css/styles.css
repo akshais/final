@@ -1,7 +1,7 @@
 body 
 {
   margin-bottom: 120px !important;
-  background: rgb(144,195,212) !important; 
+  background: url('htmltext.png'); 
 }
 .page-header {
   margin-top: 0;
