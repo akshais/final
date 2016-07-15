@@ -2,6 +2,7 @@ body
 {
   margin-bottom: 120px !important;
   background: purple !important; 
+  color: white !important;
 }
 .page-header {
   margin-top: 0;
