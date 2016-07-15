@@ -12,6 +12,6 @@ body
 .carousel-inner > .item > img {
     margin: 0 auto;
 }
-.panel-default > .panel-heading {
+.panel-default {
   background-color: rgb(144,195,212);
 }
