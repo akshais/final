@@ -1,0 +1,17 @@
+body 
+{
+  margin-bottom: 120px !important;
+  background: navy !important; 
+}
+.page-header {
+  margin-top: 0;
+}
+.panel-body {
+  padding-top:0;
+}
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+.panel-default {
+  background-color: rgb(144,195,212);
+}
