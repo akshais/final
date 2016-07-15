@@ -9,3 +9,6 @@ body
 .panel-body {
   padding-top:0;
 }
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
